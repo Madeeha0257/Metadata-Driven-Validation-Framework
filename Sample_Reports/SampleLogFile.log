@@ -1,0 +1,23 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260705170845
+Username: LAPTOP-DS3NERGL\MADEEHA
+RunAs User: LAPTOP-DS3NERGL\MADEEHA
+Configuration Name: 
+Machine: LAPTOP-DS3NERGL (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -file  C:\Users\MADEEHA\OneDrive\Desktop\Metadata-Driven-Validation-Framework\08_ValidationAutomation.ps1 
+Process ID: 6872
+PSVersion: 5.1.26100.8655
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.8655
+BuildVersion: 10.0.26100.8655
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\MADEEHA\Temp\ValidationLog_20260705_170845.log
+**********************
+Windows PowerShell transcript end
+End time: 20260705170852
+**********************
